@@ -1,4 +1,4 @@
-# vegetable-quality-detetion
+# vegetable-quality-detection
 
 Dataset: [Roboflow](https://universe.roboflow.com/vegetable-quality-detection/potato-detection-3et6q)
 
